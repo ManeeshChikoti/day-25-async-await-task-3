@@ -1,0 +1,18 @@
+body{
+    background-color:#B19FF9;
+}
+.result,.btn1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   flex-direction: column;
+}
+.img{
+   max-width:60%;
+   max-height:400px;; 
+    border-radius: 15px;
+}
+h3{
+    text-align: center;
+    padding: 10px;
+}
